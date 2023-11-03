@@ -24,9 +24,11 @@ React_Native를 접하고 두번째로 만드는 클론어플리케이션 입니
 
 # 캡처
 
-# ![KakaoTalk_20231103_205035506](https://github.com/ensookim/ToDoApp_react_native/assets/110519907/cf943ed3-101f-42aa-8dbe-ea500d1fbef8)
+# ![KakaoTalk_20231103_205035506](https://github.com/ensookim/ToDoApp_react_native/assets/110519907/a9cb0058-abec-43b5-a4bd-09f449948ae2)
 
 
-# ![KakaoTalk_20231103_205035506_01](https://github.com/ensookim/ToDoApp_react_native/assets/110519907/4cbd0fac-e220-4891-b103-06038d8629e2) 
+
+# ![KakaoTalk_20231103_205035506_01](https://github.com/ensookim/ToDoApp_react_native/assets/110519907/37fce14f-5561-4408-8f3a-e5d13f0e663a)
+
 
 
